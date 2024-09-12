@@ -48,7 +48,7 @@
     "eslint": "^8.54.0",
     "eslint-plugin-astro": "^0.30.0",
     "eslint-plugin-jsx-a11y": "^6.8.0",
-    "eslint-plugin-solid": "^0.13.0",
+    "eslint-plugin-solid": "^0.14.3",
     "gray-matter": "^4.0.3",
     "husky": "^8.0.3",
     "lint-staged": "^15.1.0",
